@@ -1,7 +1,7 @@
 - 👋 Hi, I’m OGORA DELMUS
 - FROM KENYA 
 - AFRICA
-- 👀 I’m interested in COMPTERS AND PROGRAMMING
+- 👀 I’m interested in COMPUTERS AND PROGRAMMING
 - 🌱 I’m currently learning SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on SIMPLE SHELL
 - 📫 You can reach me on 
