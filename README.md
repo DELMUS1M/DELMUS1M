@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on SIMPLE SHELL
 - 📫 You can reach me on 
-               +254-111473017
-               on twitter handle @DelmusOgora
-               on gmail adress ogoradelmus1@gmail.com
++254-111473017
+on twitter handle @DelmusOgora
+on gmail adress ogoradelmus1@gmail.com
                
 
 <!---
